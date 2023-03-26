@@ -3,7 +3,7 @@
 
 - 🚀 I’m currently learning **SwiftUI, Vapor and Combine**
 
-- 📝 I regularly write articles on Medium [https://medium.com/@lamatic00](https://medium.com/@lamatic00)
+- 📝 I often write articles on Medium [https://medium.com/@lamatic00](https://medium.com/@lamatic00)
 
 - 💬 Ask me about **CoreData, Cache Policy, VIPP Architecture , OOP, GoogleMaps, Firebase, Google Analytics, Network layer, Agile and scrum methodoldgy **
 
