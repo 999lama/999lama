@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lama Albadri</h1>
+<h1 align="center">Hi 👋, I'm Lama Albadri 🪐</h1>
 <h3 align="center">An iOS developer from Saudi Arabia</h3>
 
 - 🚀 I’m currently learning **SwiftUI, Vapor and Combine**
 
-- 📝 I often write articles on Medium [https://medium.com/@lamatic00](https://medium.com/@lamatic00)
+- 📝 I regularly write articles on Medium [https://medium.com/@lamatic00](https://medium.com/@lamatic00)
 
-- 💬 Ask me about ** CoreData, Cache Policy, VIPP Architecture , OOP, GoogleMaps, Firebase, Google Analytics, Network layer, Agile and scrum methodoldgy **
+- 💬 Ask me about **CoreData, Cache Policy, VIPP Architecture , OOP, GoogleMaps, Firebase, Google Analytics, Network layer, Agile and scrum methodology**
 
-- 📫 How to reach me ** 📧lamatic00@gmail.com 📲0554374005**
+- 📫 How to reach me **📧lamatic00@gmail.com || 📲0554374005**
 
 - ⚡ Fun fact **I like colors and play with Figma sometimes 🎨**
 
