@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lama Albadri 🪐</h1>
+<h1 align="center">Hi 👋, I'm Lama Albadri</h1>
 <h3 align="center">An iOS developer from Saudi Arabia</h3>
 
 - 🚀 I’m currently learning **SwiftUI, Vapor and Combine**
@@ -7,13 +7,12 @@
 
 - 💬 Ask me about **UIKit, AVFOundation, PassKit, CoreData, Cache Policy, VIPP Architecture , OOP, GoogleMaps,GoogleMapsUtils, Firebase, Google Analytics, Network layer, Agile and scrum methodology**
 
-- 📫 How to reach me **📧lamatic00@gmail.com || 📲0554374005**
+- 📫 How to reach me **lamatic00@gmail.com**
 
 - ⚡ Fun fact **I like colors and play with Figma sometimes 🎨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sugoilama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sugoilama" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lama-albadri-b2a491151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lama-albadri-b2a491151/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15158633/lama?tab=questions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15158633/lama?tab=questions" height="30" width="40" /></a>
 </p>
