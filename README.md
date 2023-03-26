@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on Medium [https://medium.com/@lamatic00](https://medium.com/@lamatic00)
 
-- 💬 Ask me about **CoreData, Cache Policy, VIPP, OOP, GoogleMaps, Firebase, Google Analytics, Agile and scrum methodoldgy **
+- 💬 Ask me about **CoreData, Cache Policy, VIPP Architecture , OOP, GoogleMaps, Firebase, Google Analytics, Network layer, Agile and scrum methodoldgy **
 
 - 📫 How to reach me ** 📧lamatic00@gmail.com 📲0554374005**
 
