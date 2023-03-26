@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on Medium [https://medium.com/@lamatic00](https://medium.com/@lamatic00)
 
-- 💬 Ask me about **UIKit, AVFOundation, PassKit, CoreData, Cache Policy, VIPP Architecture , OOP, GoogleMaps,GoogleMapsUtils, Firebase, Google Analytics, Network layer, Agile and scrum methodology**
+- 💬 Ask me about **UIKit, AVFoundation, CoreData, Cache Policy, VIPP Architecture, OOP, GoogleMaps,GoogleMapsUtils, Firebase, Google Analytics, Network layer, Agile and scrum methodology**
 
 - 📫 How to reach me **lamatic00@gmail.com**
 
