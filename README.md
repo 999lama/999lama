@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lama Albadri</h1>
 <h3 align="center">An iOS developer from Saudi Arabia</h3>
 
-- 🚀 I’m currently learning **SwiftUI, Vapor and Combine**
+- 🚀 I’m currently learning **SwiftUI and Combine**
 
 - 📝 I regularly write articles on Medium [https://medium.com/@lamatic00](https://medium.com/@lamatic00)
 
