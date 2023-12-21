@@ -3,9 +3,6 @@
 
 - 🚀 I’m currently learning **SwiftUI and Combine**
 
-- 📝 I regularly write articles on Medium [https://medium.com/@lamatic00](https://medium.com/@lamatic00)
-
-- 💬 Ask me about **UIKit, AVFoundation, CoreData, Cache Policy, VIPP Architecture, OOP, GoogleMaps,GoogleMapsUtils, Firebase, Google Analytics, Network layer, Agile and scrum methodology**
 
 - 📫 How to reach me **lamatic00@gmail.com**
 
